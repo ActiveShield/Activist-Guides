@@ -69,4 +69,4 @@ We welcome contributions from the community. If you have additional security tip
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt.](LICENSE) file for details.

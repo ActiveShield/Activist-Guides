@@ -7,6 +7,7 @@ Welcome to the Human Rights Activism Security Guides repository. This repository
 - [Introduction](#introduction)
 - [Guides by Country](#guides-by-country)
   - [France](#france)
+  - [Kenya](#kenya)
   - [Sudan](#sudan)
   - [Egypt](#egypt)
   - [Iraq](#Iraq)

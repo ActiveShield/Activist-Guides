@@ -30,48 +30,33 @@ Human rights defenders and activists face significant risks in their work. This 
 
 ## Guides by Country
 
-### Lebanon
+### USA
 
-#### Social Media Guidance for Dissent
-- Understand local laws on cyber-crimes, defamation, and public order.
-- Write and share responsibly to avoid legal repercussions.
-- Create anonymous accounts and use VPNs for protection.
 
-#### Physical Security During Protests
-- Conduct risk assessments and plan routes.
-- Protect your identity by wearing masks and covering identifiable features.
-- Attend protests in groups and keep emergency contacts informed.
+The current turbulence in the US threatens to reinvigorate smoldering domestic divides in the lead-up to the elections. A contentious campaign period may lead to intimidation and violence at polling places, as well as renewed mobilization by opportunistic far-right groups around claims of voter fraud, anti-LGBTQ+ legislation, and access to abortion.
 
-#### Digital Security
-- Sign out of major accounts and delete sensitive apps before protests.
-- Use Signal for encrypted messaging and enable disappearing messages.
-- Regularly back up data to secure, offline storage.
+### Mexico
 
-#### Advice During Arrest or Questioning
-- Stay calm and do not resist arrest.
-- Do not sign blank statements and refuse to hand over phone passcodes.
-- Ensure legal representation is present during questioning.
+Mexico ranks among the world’s most extreme conflicts in the ACLED Conflict Index, a position it is unlikely to cede, as the flow of people and drugs to the United States — two key drivers of conflict between criminal groups — are at all-time highs, while the 2024 general elections are likely to kindle political violence.
 
-#### Women Human Rights Defenders
-- Address gender-based violence and harassment.
-- Build support networks and seek legal and medical support.
-- Engage in self-care practices to manage stress.
+### Palestine
 
-### Jordan
+Violence is expected to continue across the Palestinian territories, including after the current high-intensity fighting in Gaza ends. Tensions in the West Bank, already alarmingly high before 7 October, have escalated even further in recent months, as clashes between Palestinian armed groups and the IDF have intensified and settlers have ramped up violence.
 
-(Adapt this section based on specific guidelines from the Jordan document)
 
-### Pakistan
+### Yemen
 
-(Adapt this section based on specific guidelines from articles and documents related to Pakistan)
+The domestic situation in Yemen remains tense despite the recent announcement of an imminent roadmap under UN auspices. A regional escalation in the Red Sea could nevertheless derail ongoing peace efforts and lead to a resurgence of the conflict. This intricate situation results in domestic, regional, and international actors finding themselves in diverse predicaments.
 
-### India
+### Sudan
 
-(Adapt this section based on specific guidelines from articles and documents related to India)
+Emboldened by its successes in Khartoum and Darfur, and the lack of diplomatic efforts to achieve a complete ceasefire, the Rapid Support Forces (RSF) is moving southward and eastward to force the Sudanese army (SAF) into submission.
 
-### Canada
 
-(Adapt this section based on specific guidelines from articles and documents related to Canada)
+### Myanmar
+
+Despite multiple setbacks, fighting between the Myanmar military and resistance forces is likely to continue in 2024. The NUG’s strategy of “all roads lead to Nay Pyi Taw” has led the military to take action to further fortify the capital, increasingly under threat of infiltration from the resistance forces.
+
 
 ## Contributing
 

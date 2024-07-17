@@ -1,1 +1,12 @@
-<iframe src="https://docs.google.com/spreadsheets/d/1mEzzfbv40pYeb1_5an2hBdxfMuGRdq7V76rmuFvhHNY/edit?gid=0#gid=0" width="600" height="400"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Embed Google Sheet</title>
+</head>
+<body>
+  <h1>My Embedded Google Sheet</h1>
+  <iframe src="https://docs.google.com/spreadsheets/d/1mEzzfbv40pYeb1_5an2hBdxfMuGRdq7V76rmuFvhHNY/edit?gid=0#gid=0" width="600" height="400"></iframe>
+</body>
+</html>

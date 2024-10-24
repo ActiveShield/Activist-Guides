@@ -64,7 +64,7 @@ We welcome contributions from the community. If you have additional security tip
 
 ## License
 
-This project is licensed under the MIT License - see the [[LICENSE.txt.]([https://github.com/ActiveShield/Activist-Guides/blob/main/LICENSE](https://github.com/ActiveShield/Activist-Guides/blob/6dcfd295597f359076777804b9e0d6031e79a98c/LICENSE.txt.)] file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt: https://github.com/ActiveShield/Activist-Guides/blob/6dcfd295597f359076777804b9e0d6031e79a98c/LICENSE.txt.)] file for details.
 
 Sources:
 The Carnegie Endowment for International Peace’s Global Protest Tracker  

@@ -21,6 +21,7 @@ Welcome to the Human Rights Activism Security Guides repository. This repository
   - [Pakistan](#pakistan)
   - [India](#india)
   - [Canada](#canada)
+  - [Congo(DRC)](#congodrc)
 - [Contributing](#contributing)
 - [License](#license)
 

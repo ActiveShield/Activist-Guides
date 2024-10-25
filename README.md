@@ -23,7 +23,7 @@ Welcome to the Human Rights Activism Security Guides repository. This repository
   - [Canada](canada.md)
   - [Congo (DRC)](congo-drc.md)
 - [Contributing](contributing.md)
-- [License](license)
+- [License](license.md)
 
 ## Introduction
 
